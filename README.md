@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=umedier&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umedier&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 
 **Hi** 👋
 
@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 * 😄 Pronouns: ...
 * ⚡ Fun fact: ...
 
-<hr>
-<p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umedier&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-</p>
 <hr>
 <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i>
